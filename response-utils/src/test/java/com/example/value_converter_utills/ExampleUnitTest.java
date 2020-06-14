@@ -1,4 +1,4 @@
-package com.example.value_converter_utils;
+package com.example.value_converter_utills;
 
 import org.junit.Test;
 

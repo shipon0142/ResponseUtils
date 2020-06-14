@@ -4,7 +4,7 @@ android {
     compileSdkVersion 29
 
     defaultConfig {
-        applicationId "com.shipon.value_converter_utils"
+        applicationId "com.shipon.value_converter_utills"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
